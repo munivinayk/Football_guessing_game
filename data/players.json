@@ -1,0 +1,544 @@
+{
+  "players": [
+    {
+      "name": "Lionel Messi",
+      "buzzwords": ["Dribbling", "Left Foot", "Vision"],
+      "clues": [
+        "I've won multiple Ballon d'Or awards",
+        "I started my career at La Masia",
+        "I led my country to World Cup victory in 2022"
+      ],
+      "facts": {
+        "nationality": "Argentina",
+        "position": "Forward",
+        "club": "Inter Miami",
+        "number": 10,
+        "image_url": "https://example.com/messi.jpg",
+        "club_logo_url": "https://example.com/intermiami_logo.png",
+        "country_flag_url": "https://example.com/argentina_flag.png"
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "buzzwords": ["Headers", "Speed", "Power"],
+      "clues": [
+        "I'm known for my 'Siu' celebration",
+        "I've played for Manchester United, Real Madrid, and Juventus",
+        "I'm Portugal's all-time top scorer"
+      ],
+      "facts": {
+        "nationality": "Portugal",
+        "position": "Forward",
+        "club": "Al Nassr",
+        "number": 7,
+        "image_url": "https://example.com/ronaldo.jpg",
+        "club_logo_url": "https://example.com/alnassr_logo.png",
+        "country_flag_url": "https://example.com/portugal_flag.png"
+      }
+    },
+    {
+      "name": "Erling Haaland",
+      "buzzwords": ["Strength", "Finishing", "Speed"],
+      "clues": [
+        "I broke the Premier League scoring record in my debut season",
+        "I was born in Leeds, England",
+        "My father also played professional football"
+      ],
+      "facts": {
+        "nationality": "Norway",
+        "position": "Striker",
+        "club": "Manchester City",
+        "number": 9,
+        "image_url": "https://example.com/haaland.jpg",
+        "club_logo_url": "https://example.com/mancity_logo.png",
+        "country_flag_url": "https://example.com/norway_flag.png"
+      }
+    },
+    {
+      "name": "Kylian Mbappe",
+      "buzzwords": ["Speed", "Dribbling", "Finishing"],
+      "clues": [
+        "I helped my team win the 2018 World Cup",
+        "I was the top scorer in the 2022 World Cup",
+        "I started my career at AS Monaco"
+      ],
+      "facts": {
+        "nationality": "France",
+        "position": "Forward",
+        "club": "Paris Saint-Germain",
+        "number": 7,
+        "image_url": "https://example.com/mbappe.jpg",
+        "club_logo_url": "https://example.com/psg_logo.png",
+        "country_flag_url": "https://example.com/france_flag.png"
+      }
+    },
+    {
+      "name": "Neymar Jr.",
+      "buzzwords": ["Skills", "Dribbling", "Flair"],
+      "clues": [
+        "I've played for Barcelona and Paris Saint-Germain",
+        "I'm Brazil's all-time top goal scorer",
+        "I wear the number 10 for my national team"
+      ],
+      "facts": {
+        "nationality": "Brazil",
+        "position": "Forward",
+        "club": "Al Hilal",
+        "number": 10,
+        "image_url": "https://example.com/neymar.jpg",
+        "club_logo_url": "https://example.com/alhilal_logo.png",
+        "country_flag_url": "https://example.com/brazil_flag.png"
+      }
+    },
+    {
+      "name": "Robert Lewandowski",
+      "buzzwords": ["Finishing", "Positioning", "Headers"],
+      "clues": [
+        "I've played for Borussia Dortmund and Bayern Munich",
+        "I'm Poland's all-time top scorer",
+        "I won the Best FIFA Men's Player award in 2020 and 2021"
+      ],
+      "facts": {
+        "nationality": "Poland",
+        "position": "Striker",
+        "club": "FC Barcelona",
+        "number": 9,
+        "image_url": "https://example.com/lewandowski.jpg",
+        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "country_flag_url": "https://example.com/poland_flag.png"
+      }
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "buzzwords": ["Passing", "Vision", "Long Shots"],
+      "clues": [
+        "I'm known for my assists in the Premier League",
+        "I've won multiple Premier League titles with Manchester City",
+        "I started my career at Genk"
+      ],
+      "facts": {
+        "nationality": "Belgium",
+        "position": "Midfielder",
+        "club": "Manchester City",
+        "number": 17,
+        "image_url": "https://example.com/debruyne.jpg",
+        "club_logo_url": "https://example.com/mancity_logo.png",
+        "country_flag_url": "https://example.com/belgium_flag.png"
+      }
+    },
+    {
+      "name": "Virgil van Dijk",
+      "buzzwords": ["Defending", "Leadership", "Aerial Ability"],
+      "clues": [
+        "I'm known for my strong presence in defense",
+        "I won the Champions League with Liverpool in 2019",
+        "I was the runner-up for the 2019 Ballon d'Or"
+      ],
+      "facts": {
+        "nationality": "Netherlands",
+        "position": "Defender",
+        "club": "Liverpool",
+        "number": 4,
+        "image_url": "https://example.com/vandijk.jpg",
+        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "country_flag_url": "https://example.com/netherlands_flag.png"
+      }
+    },
+    {
+      "name": "Luka Modric",
+      "buzzwords": ["Passing", "Dribbling", "Stamina"],
+      "clues": [
+        "I won the Ballon d'Or in 2018",
+        "I've played over a decade at Real Madrid",
+        "I led my country to the World Cup final in 2018"
+      ],
+      "facts": {
+        "nationality": "Croatia",
+        "position": "Midfielder",
+        "club": "Real Madrid",
+        "number": 10,
+        "image_url": "https://example.com/modric.jpg",
+        "club_logo_url": "https://example.com/realmadrid_logo.png",
+        "country_flag_url": "https://example.com/croatia_flag.png"
+      }
+    },
+    {
+      "name": "Mohamed Salah",
+      "buzzwords": ["Speed", "Finishing", "Left Foot"],
+      "clues": [
+        "I've won the Premier League Golden Boot multiple times",
+        "I helped Liverpool win the Champions League in 2019",
+        "I'm one of the best players from Egypt"
+      ],
+      "facts": {
+        "nationality": "Egypt",
+        "position": "Forward",
+        "club": "Liverpool",
+        "number": 11,
+        "image_url": "https://example.com/salah.jpg",
+        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "country_flag_url": "https://example.com/egypt_flag.png"
+      }
+    },
+    {
+      "name": "Jan Oblak",
+      "buzzwords": ["Shot-Stopping", "Positioning", "Composure"],
+      "clues": [
+        "I'm known as one of the best goalkeepers in La Liga",
+        "I've won multiple Zamora Trophies for the fewest goals conceded",
+        "I play for Atlético Madrid"
+      ],
+      "facts": {
+        "nationality": "Slovenia",
+        "position": "Goalkeeper",
+        "club": "Atlético Madrid",
+        "number": 13,
+        "image_url": "https://example.com/oblak.jpg",
+        "club_logo_url": "https://example.com/atletico_logo.png",
+        "country_flag_url": "https://example.com/slovenia_flag.png"
+      }
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "buzzwords": ["Crossing", "Assists", "Attacking Full-Back"],
+      "clues": [
+        "I'm known for my passing ability from right-back",
+        "I helped Liverpool win the Champions League in 2019",
+        "I came through Liverpool's youth academy"
+      ],
+      "facts": {
+        "nationality": "England",
+        "position": "Defender",
+        "club": "Liverpool",
+        "number": 66,
+        "image_url": "https://example.com/arnold.jpg",
+        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "country_flag_url": "https://example.com/england_flag.png"
+      }
+    },
+    {
+      "name": "Thiago Silva",
+      "buzzwords": ["Leadership", "Defensive Awareness", "Experience"],
+      "clues": [
+        "I've captained Brazil at multiple international tournaments",
+        "I played for PSG before joining Chelsea",
+        "I'm known for my composure in defense"
+      ],
+      "facts": {
+        "nationality": "Brazil",
+        "position": "Defender",
+        "club": "Chelsea",
+        "number": 6,
+        "image_url": "https://example.com/thiago.jpg",
+        "club_logo_url": "https://example.com/chelsea_logo.png",
+        "country_flag_url": "https://example.com/brazil_flag.png"
+      }
+    },
+    {
+      "name": "Raheem Sterling",
+      "buzzwords": ["Pace", "Dribbling", "Goal Scoring"],
+      "clues": [
+        "I've won multiple Premier League titles with Manchester City",
+        "I now play for Chelsea",
+        "I'm known for my quick runs and scoring ability"
+      ],
+      "facts": {
+        "nationality": "England",
+        "position": "Forward",
+        "club": "Chelsea",
+        "number": 7,
+        "image_url": "https://example.com/sterling.jpg",
+        "club_logo_url": "https://example.com/chelsea_logo.png",
+        "country_flag_url": "https://example.com/england_flag.png"
+      }
+    },
+    {
+      "name": "Alisson Becker",
+      "buzzwords": ["Shot-Stopping", "Distribution", "Composure"],
+      "clues": [
+        "I won the Premier League Golden Glove in 2019",
+        "I helped Liverpool win the Champions League and Premier League",
+        "I'm the starting goalkeeper for Brazil"
+      ],
+      "facts": {
+        "nationality": "Brazil",
+        "position": "Goalkeeper",
+        "club": "Liverpool",
+        "number": 1,
+        "image_url": "https://example.com/alisson.jpg",
+        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "country_flag_url": "https://example.com/brazil_flag.png"
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "buzzwords": ["Creativity", "Passing", "Long Shots"],
+      "clues": [
+        "I'm known for my playmaking ability at Manchester United",
+        "I often take penalties for my club and country",
+        "I joined Manchester United from Sporting CP"
+      ],
+      "facts": {
+        "nationality": "Portugal",
+        "position": "Midfielder",
+        "club": "Manchester United",
+        "number": 8,
+        "image_url": "https://example.com/fernandes.jpg",
+        "club_logo_url": "https://example.com/manutd_logo.png",
+        "country_flag_url": "https://example.com/portugal_flag.png"
+      }
+    },
+    {
+      "name": "Pedri",
+      "buzzwords": ["Vision", "Passing", "Young Talent"],
+      "clues": [
+        "I joined Barcelona at a young age from Las Palmas",
+        "I won the Golden Boy award in 2021",
+        "I'm often compared to Barcelona legends for my playstyle"
+      ],
+      "facts": {
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "club": "FC Barcelona",
+        "number": 8,
+        "image_url": "https://example.com/pedri.jpg",
+        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "country_flag_url": "https://example.com/spain_flag.png"
+      }
+    },
+    {
+      "name": "Ederson",
+      "buzzwords": ["Distribution", "Reflexes", "Positioning"],
+      "clues": [
+        "I'm known for my accurate long passes as a goalkeeper",
+        "I won multiple Premier League titles with Manchester City",
+        "I'm the second-choice goalkeeper for Brazil"
+      ],
+      "facts": {
+        "nationality": "Brazil",
+        "position": "Goalkeeper",
+        "club": "Manchester City",
+        "number": 31,
+        "image_url": "https://example.com/ederson.jpg",
+        "club_logo_url": "https://example.com/mancity_logo.png",
+        "country_flag_url": "https://example.com/brazil_flag.png"
+      }
+    },
+    {
+      "name": "Dusan Vlahovic",
+      "buzzwords": ["Finishing", "Strength", "Aerial Ability"],
+      "clues": [
+        "I'm a top goal scorer for the Serbian national team",
+        "I joined Juventus after a successful stint at Fiorentina",
+        "I'm known for my strength and goal-scoring ability"
+      ],
+      "facts": {
+        "nationality": "Serbia",
+        "position": "Striker",
+        "club": "Juventus",
+        "number": 9,
+        "image_url": "https://example.com/vlahovic.jpg",
+        "club_logo_url": "https://example.com/juventus_logo.png",
+        "country_flag_url": "https://example.com/serbia_flag.png"
+      }
+    },
+    {
+      "name": "Kai Havertz",
+      "buzzwords": ["Versatility", "Dribbling", "Finishing"],
+      "clues": [
+        "I scored the winning goal in the 2021 Champions League final for Chelsea",
+        "I'm known for my versatility in forward positions",
+        "I joined Arsenal in 2023 after three seasons at Chelsea"
+      ],
+      "facts": {
+        "nationality": "Germany",
+        "position": "Forward",
+        "club": "Arsenal",
+        "number": 29,
+        "image_url": "https://example.com/havertz.jpg",
+        "club_logo_url": "https://example.com/arsenal_logo.png",
+        "country_flag_url": "https://example.com/germany_flag.png"
+      }
+    },
+    {
+      "name": "Karim Benzema",
+      "buzzwords": ["Finishing", "Positioning", "Link-Up Play"],
+      "clues": [
+        "I won the 2022 Ballon d'Or",
+        "I spent most of my career at Real Madrid",
+        "I joined Al-Ittihad in 2023"
+      ],
+      "facts": {
+        "nationality": "France",
+        "position": "Striker",
+        "club": "Al-Ittihad",
+        "number": 9,
+        "image_url": "https://example.com/benzema.jpg",
+        "club_logo_url": "https://example.com/alittihad_logo.png",
+        "country_flag_url": "https://example.com/france_flag.png"
+      }
+    },
+    {
+      "name": "Harry Kane",
+      "buzzwords": ["Finishing", "Heading", "Leadership"],
+      "clues": [
+        "I was Tottenham's top scorer before joining Bayern Munich",
+        "I am England's all-time top goal scorer",
+        "I wear the number 9 for my club and country"
+      ],
+      "facts": {
+        "nationality": "England",
+        "position": "Striker",
+        "club": "Bayern Munich",
+        "number": 9,
+        "image_url": "https://example.com/kane.jpg",
+        "club_logo_url": "https://example.com/bayernmunich_logo.png",
+        "country_flag_url": "https://example.com/england_flag.png"
+      }
+    },
+    {
+      "name": "Antoine Griezmann",
+      "buzzwords": ["Versatility", "Dribbling", "Creativity"],
+      "clues": [
+        "I helped France win the 2018 World Cup",
+        "I started my career at Real Sociedad",
+        "I returned to Atlético Madrid after a spell at Barcelona"
+      ],
+      "facts": {
+        "nationality": "France",
+        "position": "Forward",
+        "club": "Atlético Madrid",
+        "number": 7,
+        "image_url": "https://example.com/griezmann.jpg",
+        "club_logo_url": "https://example.com/atletico_logo.png",
+        "country_flag_url": "https://example.com/france_flag.png"
+      }
+    },
+    {
+      "name": "Sadio Mane",
+      "buzzwords": ["Speed", "Finishing", "Work Rate"],
+      "clues": [
+        "I won the Premier League with Liverpool in 2020",
+        "I led Senegal to their first-ever Africa Cup of Nations victory",
+        "I joined Al-Nassr in 2023"
+      ],
+      "facts": {
+        "nationality": "Senegal",
+        "position": "Forward",
+        "club": "Al-Nassr",
+        "number": 10,
+        "image_url": "https://example.com/mane.jpg",
+        "club_logo_url": "https://example.com/alnassr_logo.png",
+        "country_flag_url": "https://example.com/senegal_flag.png"
+      }
+    },
+    {
+      "name": "Jude Bellingham",
+      "buzzwords": ["Midfield", "Box-to-Box", "Composure"],
+      "clues": [
+        "I joined Real Madrid in 2023",
+        "I made my professional debut at 16 for Birmingham City",
+        "I'm one of England's brightest young talents"
+      ],
+      "facts": {
+        "nationality": "England",
+        "position": "Midfielder",
+        "club": "Real Madrid",
+        "number": 5,
+        "image_url": "https://example.com/bellingham.jpg",
+        "club_logo_url": "https://example.com/realmadrid_logo.png",
+        "country_flag_url": "https://example.com/england_flag.png"
+      }
+    },
+    {
+      "name": "Sergio Ramos",
+      "buzzwords": ["Defending", "Leadership", "Headers"],
+      "clues": [
+        "I spent 16 years at Real Madrid",
+        "I won the World Cup with Spain in 2010",
+        "I'm known for scoring crucial goals as a defender"
+      ],
+      "facts": {
+        "nationality": "Spain",
+        "position": "Defender",
+        "club": "Sevilla",
+        "number": 4,
+        "image_url": "https://example.com/ramos.jpg",
+        "club_logo_url": "https://example.com/sevilla_logo.png",
+        "country_flag_url": "https://example.com/spain_flag.png"
+      }
+    },
+    {
+      "name": "Gavi",
+      "buzzwords": ["Young Talent", "Aggression", "Passing"],
+      "clues": [
+        "I made my debut for FC Barcelona at age 17",
+        "I won the 2022 Kopa Trophy",
+        "I'm often compared to former Barcelona legends Xavi and Iniesta"
+      ],
+      "facts": {
+        "nationality": "Spain",
+        "position": "Midfielder",
+        "club": "FC Barcelona",
+        "number": 6,
+        "image_url": "https://example.com/gavi.jpg",
+        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "country_flag_url": "https://example.com/spain_flag.png"
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "buzzwords": ["Pace", "Finishing", "Dribbling"],
+      "clues": [
+        "I've been at Manchester United since my youth",
+        "I'm known for my charity work off the pitch",
+        "I scored on my debut for both club and country"
+      ],
+      "facts": {
+        "nationality": "England",
+        "position": "Forward",
+        "club": "Manchester United",
+        "number": 10,
+        "image_url": "https://example.com/rashford.jpg",
+        "club_logo_url": "https://example.com/manutd_logo.png",
+        "country_flag_url": "https://example.com/england_flag.png"
+      }
+    },
+    {
+      "name": "Joshua Kimmich",
+      "buzzwords": ["Versatility", "Passing", "Defensive Awareness"],
+      "clues": [
+        "I'm often used as both a midfielder and a right-back",
+        "I've won multiple Bundesliga titles with Bayern Munich",
+        "I'm considered a key player for Germany's national team"
+      ],
+      "facts": {
+        "nationality": "Germany",
+        "position": "Midfielder",
+        "club": "Bayern Munich",
+        "number": 6,
+        "image_url": "https://example.com/kimmich.jpg",
+        "club_logo_url": "https://example.com/bayernmunich_logo.png",
+        "country_flag_url": "https://example.com/germany_flag.png"
+      }
+    },
+    {
+      "name": "Son Heung-min",
+      "buzzwords": ["Speed", "Finishing", "Work Ethic"],
+      "clues": [
+        "I'm the first Asian to win the Premier League Golden Boot",
+        "I've played for Tottenham since 2015",
+        "I'm captain of the South Korea national team"
+      ],
+      "facts": {
+        "nationality": "South Korea",
+        "position": "Forward",
+        "club": "Tottenham Hotspur",
+        "number": 7,
+        "image_url": "https://example.com/son.jpg",
+        "club_logo_url": "https://example.com/tottenham_logo.png",
+        "country_flag_url": "https://example.com/southkorea_flag.png"
+      }
+    }
+  ]
+}
