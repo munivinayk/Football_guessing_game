@@ -13,8 +13,8 @@
         "position": "Forward",
         "club": "Inter Miami",
         "number": 10,
-        "image_url": "https://example.com/messi.jpg",
-        "club_logo_url": "https://example.com/intermiami_logo.png",
+        "image_url": "https://assets.goal.com/images/v3/blta599d20a0647b4b7/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202024-10-19T200705.599.jpg?auto=webp&format=pjpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/6R6XDEm5Kkmi4DWhW61VZs/14e67b63bbe0c39d9ff4b2dd4cd9224e/Inter_Miami_CF.png",
         "country_flag_url": "https://example.com/argentina_flag.png"
       }
     },
@@ -31,8 +31,8 @@
         "position": "Forward",
         "club": "Al Nassr",
         "number": 7,
-        "image_url": "https://example.com/ronaldo.jpg",
-        "club_logo_url": "https://example.com/alnassr_logo.png",
+        "image_url": "https://images.firstpost.com/uploads/2024/10/AP24295120055662-1-2024-10-4bd82128a163a3653ef8cb057c0f7b04-1200x675.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/4GkynPe8zldJYqrc9fZNRE/d14659850d9cbb96e61dc6f3485fce6c/Al_Nassr.png",
         "country_flag_url": "https://example.com/portugal_flag.png"
       }
     },
@@ -49,8 +49,8 @@
         "position": "Striker",
         "club": "Manchester City",
         "number": 9,
-        "image_url": "https://example.com/haaland.jpg",
-        "club_logo_url": "https://example.com/mancity_logo.png",
+        "image_url": "https://images.mykhel.com/webp/img/2024/10/erling-haaland-man-city-1729925416.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/5GnvVTcxE7ffuqArMHy9Rz/0f45440299772eb88eb7613ace0dc2b7/Manchester_City.png",
         "country_flag_url": "https://example.com/norway_flag.png"
       }
     },
@@ -67,8 +67,8 @@
         "position": "Forward",
         "club": "Paris Saint-Germain",
         "number": 7,
-        "image_url": "https://example.com/mbappe.jpg",
-        "club_logo_url": "https://example.com/psg_logo.png",
+        "image_url": "https://media.sportstiger.com/media/french-football-leagues-appeals-commission-upholds-decision-of-psgs-595m-payment-to-kylian-mbappe-sportstiger-1729919302408-original.webp",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3GulwnVRI5bFuDhQMUzoIh/54fc2ef3cdb94ee9d28a487d78398660/Paris_SG.png",
         "country_flag_url": "https://example.com/france_flag.png"
       }
     },
@@ -85,8 +85,8 @@
         "position": "Forward",
         "club": "Al Hilal",
         "number": 10,
-        "image_url": "https://example.com/neymar.jpg",
-        "club_logo_url": "https://example.com/alhilal_logo.png",
+        "image_url": "https://b.fssta.com/uploads/application/soccer/headshots/713.vresize.350.350.medium.34.png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/9gKn1RYbxfkgJsYH3rQI9/57677ca98308c633ddf0f437785cebdc/Al_Hilal.png",
         "country_flag_url": "https://example.com/brazil_flag.png"
       }
     },
@@ -103,8 +103,8 @@
         "position": "Striker",
         "club": "FC Barcelona",
         "number": 9,
-        "image_url": "https://example.com/lewandowski.jpg",
-        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "image_url": "https://s.hs-data.com/bilder/spieler/gross/119750.jpg?fallback=png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/6iI4tBioBWxOxEnINiHjJd/13848fe939b2d14acefb01768eebd9c0/FC_Barcelona.png",
         "country_flag_url": "https://example.com/poland_flag.png"
       }
     },
@@ -121,8 +121,8 @@
         "position": "Midfielder",
         "club": "Manchester City",
         "number": 17,
-        "image_url": "https://example.com/debruyne.jpg",
-        "club_logo_url": "https://example.com/mancity_logo.png",
+        "image_url": "https://www.fichajes.net/sites/default/files/styles/epsa_detail_thumbail/public/2024-10/kevin-de-bruyne-fichajes-rmores-manchester-city-san-diego-fc.jpg",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_64x64.png",
         "country_flag_url": "https://example.com/belgium_flag.png"
       }
     },
@@ -139,8 +139,8 @@
         "position": "Defender",
         "club": "Liverpool",
         "number": 4,
-        "image_url": "https://example.com/vandijk.jpg",
-        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3a76/live/5a0cd8c0-8fa2-11ef-a4b3-0d6ca230504f.jpg.webp",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_64x64.png",
         "country_flag_url": "https://example.com/netherlands_flag.png"
       }
     },
@@ -157,8 +157,8 @@
         "position": "Midfielder",
         "club": "Real Madrid",
         "number": 10,
-        "image_url": "https://example.com/modric.jpg",
-        "club_logo_url": "https://example.com/realmadrid_logo.png",
+        "image_url": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/07/17/thumbs_b_c_765788eabaf3730f72e847c8c9cf27a7.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3X9LsZRgy03pchwhQacpwY/f6a0a73d564f4e5653e88427c0b4a02c/Real_Madrid.png",
         "country_flag_url": "https://example.com/croatia_flag.png"
       }
     },
@@ -175,8 +175,8 @@
         "position": "Forward",
         "club": "Liverpool",
         "number": 11,
-        "image_url": "https://example.com/salah.jpg",
-        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "image_url": "https://www.daveockop.com/wp-content/uploads/2024/09/skysports-mohamed-salah-liverpool_6674121-1.webp",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_64x64.png",
         "country_flag_url": "https://example.com/egypt_flag.png"
       }
     },
@@ -193,8 +193,8 @@
         "position": "Goalkeeper",
         "club": "Atlético Madrid",
         "number": 13,
-        "image_url": "https://example.com/oblak.jpg",
-        "club_logo_url": "https://example.com/atletico_logo.png",
+        "image_url": "https://assets.goal.com/images/v3/bltb65f5465faa881ad/d7135566a3e3da8028f3bb64ef1940bf6558e16b.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/1G7tZQxjdWA8GRHM7rrQC3/18b30a6bf5682e269861aea29eb66712/Atl_tico_de_Madrid.png",
         "country_flag_url": "https://example.com/slovenia_flag.png"
       }
     },
@@ -211,8 +211,8 @@
         "position": "Defender",
         "club": "Liverpool",
         "number": 66,
-        "image_url": "https://example.com/arnold.jpg",
-        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "image_url": "https://static.independent.co.uk/2024/09/13/10/GettyImages-2168470212.jpg",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_64x64.png",
         "country_flag_url": "https://example.com/england_flag.png"
       }
     },
@@ -229,8 +229,8 @@
         "position": "Defender",
         "club": "Chelsea",
         "number": 6,
-        "image_url": "https://example.com/thiago.jpg",
-        "club_logo_url": "https://example.com/chelsea_logo.png",
+        "image_url": "https://b.fssta.com/uploads/application/soccer/headshots/4062.vresize.350.350.medium.49.png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/1MaQoKdzyWnJAaY1Em88Ag/101df554cc08a967e705365810a9d37c/Chelsea.png",
         "country_flag_url": "https://example.com/brazil_flag.png"
       }
     },
@@ -247,8 +247,8 @@
         "position": "Forward",
         "club": "Chelsea",
         "number": 7,
-        "image_url": "https://example.com/sterling.jpg",
-        "club_logo_url": "https://example.com/chelsea_logo.png",
+        "image_url": "https://assets.goal.com/images/v3/getty-2172252006/crop/MM5DEOBYGA5DCNRSGA5G433XMU5DAORUGAZQ====/GettyImages-2172252006.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/5GnvVTcxE7ffuqArMHy9Rz/0f45440299772eb88eb7613ace0dc2b7/Manchester_City.png",
         "country_flag_url": "https://example.com/england_flag.png"
       }
     },
@@ -265,8 +265,8 @@
         "position": "Goalkeeper",
         "club": "Liverpool",
         "number": 1,
-        "image_url": "https://example.com/alisson.jpg",
-        "club_logo_url": "https://example.com/liverpool_logo.png",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1587/live/99c206a0-7730-11ef-ba17-3d6535c0d7a9.jpg.webp",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_64x64.png",
         "country_flag_url": "https://example.com/brazil_flag.png"
       }
     },
@@ -283,8 +283,8 @@
         "position": "Midfielder",
         "club": "Manchester United",
         "number": 8,
-        "image_url": "https://example.com/fernandes.jpg",
-        "club_logo_url": "https://example.com/manutd_logo.png",
+        "image_url": "https://img.a.transfermarkt.technology/portrait/header/240306-1683882766.jpg?",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3eHeWWmkWHPG9EIoLHWZLZ/72a69adbd80ffb6c6dc65938af148280/Man_Utd.png",
         "country_flag_url": "https://example.com/portugal_flag.png"
       }
     },
@@ -301,8 +301,8 @@
         "position": "Midfielder",
         "club": "FC Barcelona",
         "number": 8,
-        "image_url": "https://example.com/pedri.jpg",
-        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "image_url": "https://assets.goal.com/images/v3/blt526b0a3ae79135c3/GOAL%20-%20Blank%20WEB%20-%20Facebook%20(11).png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/6iI4tBioBWxOxEnINiHjJd/13848fe939b2d14acefb01768eebd9c0/FC_Barcelona.png",
         "country_flag_url": "https://example.com/spain_flag.png"
       }
     },
@@ -319,8 +319,8 @@
         "position": "Goalkeeper",
         "club": "Manchester City",
         "number": 31,
-        "image_url": "https://example.com/ederson.jpg",
-        "club_logo_url": "https://example.com/mancity_logo.png",
+        "image_url": "https://www.mancity.com/meta/media/d3wd4dcq/ederson.png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/5GnvVTcxE7ffuqArMHy9Rz/0f45440299772eb88eb7613ace0dc2b7/Manchester_City.png",
         "country_flag_url": "https://example.com/brazil_flag.png"
       }
     },
@@ -337,8 +337,8 @@
         "position": "Striker",
         "club": "Juventus",
         "number": 9,
-        "image_url": "https://example.com/vlahovic.jpg",
-        "club_logo_url": "https://example.com/juventus_logo.png",
+        "image_url": "https://cdn.vox-cdn.com/thumbor/nGXj6z60IAXvRzko39AJTX0VTy4=/0x0:1994x2989/920x613/filters:focal(663x1296:981x1614):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66498775/1198170449.jpg.0.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/7c2GZxYkYwH9JKyqI0rrS8/614cfad4e552b6348cea136432f28dc8/Juventus.png",
         "country_flag_url": "https://example.com/serbia_flag.png"
       }
     },
@@ -355,8 +355,8 @@
         "position": "Forward",
         "club": "Arsenal",
         "number": 29,
-        "image_url": "https://example.com/havertz.jpg",
-        "club_logo_url": "https://example.com/arsenal_logo.png",
+        "image_url": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Havertz-New.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/29zT5QsnxXnUSG3I7nzHXp/444cdd2d0054ccc15e9f8aae08501f28/Arsenal.png",
         "country_flag_url": "https://example.com/germany_flag.png"
       }
     },
@@ -373,8 +373,8 @@
         "position": "Striker",
         "club": "Al-Ittihad",
         "number": 9,
-        "image_url": "https://example.com/benzema.jpg",
-        "club_logo_url": "https://example.com/alittihad_logo.png",
+        "image_url": "https://newafricanmagazine.com/wordpress/wp-content/uploads/2021/06/000_8WT63Q-scaled-e1623237506605.jpeg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/2YUU9GnAdHnuZC7nvCVUg9/83c732c2c551a165026d143eb8ceff82/Al_Ittihad.png",
         "country_flag_url": "https://example.com/france_flag.png"
       }
     },
@@ -391,8 +391,8 @@
         "position": "Striker",
         "club": "Bayern Munich",
         "number": 9,
-        "image_url": "https://example.com/kane.jpg",
-        "club_logo_url": "https://example.com/bayernmunich_logo.png",
+        "image_url": "https://www.spurs-web.com/static/uploads/1/2024/08/hkane2.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3XIP49qCKQQznt0zxfZXiy/f06982ce9614d92641252d1277b3d580/FC_Bayern_M_nchen.png",
         "country_flag_url": "https://example.com/england_flag.png"
       }
     },
@@ -409,8 +409,8 @@
         "position": "Forward",
         "club": "Atlético Madrid",
         "number": 7,
-        "image_url": "https://example.com/griezmann.jpg",
-        "club_logo_url": "https://example.com/atletico_logo.png",
+        "image_url": "https://assets.goal.com/images/v3/blt4072c683bfaaabf8/Antoine%20Griezmann%20France%20Euro%202024.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/1G7tZQxjdWA8GRHM7rrQC3/18b30a6bf5682e269861aea29eb66712/Atl_tico_de_Madrid.png",
         "country_flag_url": "https://example.com/france_flag.png"
       }
     },
@@ -427,8 +427,8 @@
         "position": "Forward",
         "club": "Al-Nassr",
         "number": 10,
-        "image_url": "https://example.com/mane.jpg",
-        "club_logo_url": "https://example.com/alnassr_logo.png",
+        "image_url": "https://ichef.bbci.co.uk/images/ic/1376x774/p0bmn2ml.jpg",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/GWXetBOkODOWR3p2NIBqJg_64x64.png",
         "country_flag_url": "https://example.com/senegal_flag.png"
       }
     },
@@ -445,8 +445,8 @@
         "position": "Midfielder",
         "club": "Real Madrid",
         "number": 5,
-        "image_url": "https://example.com/bellingham.jpg",
-        "club_logo_url": "https://example.com/realmadrid_logo.png",
+        "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2835,h_1594,x_0,y_202/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F90min_en_international_web%2F01jb28shzakmr6bth920.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3X9LsZRgy03pchwhQacpwY/f6a0a73d564f4e5653e88427c0b4a02c/Real_Madrid.png",
         "country_flag_url": "https://example.com/england_flag.png"
       }
     },
@@ -463,8 +463,8 @@
         "position": "Defender",
         "club": "Sevilla",
         "number": 4,
-        "image_url": "https://example.com/ramos.jpg",
-        "club_logo_url": "https://example.com/sevilla_logo.png",
+        "image_url": "https://tmssl.akamaized.net//images/foto/galerie/ramos-sergio-2023-2024-sevilla-fc-1034550501hjpg-1695222779-117225.jpg",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_64x64.png",
         "country_flag_url": "https://example.com/spain_flag.png"
       }
     },
@@ -481,8 +481,8 @@
         "position": "Midfielder",
         "club": "FC Barcelona",
         "number": 6,
-        "image_url": "https://example.com/gavi.jpg",
-        "club_logo_url": "https://example.com/barcelona_logo.png",
+        "image_url": "https://s.hs-data.com/bilder/spieler/gross/511270.jpg?fallback=png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/6iI4tBioBWxOxEnINiHjJd/13848fe939b2d14acefb01768eebd9c0/FC_Barcelona.png",
         "country_flag_url": "https://example.com/spain_flag.png"
       }
     },
@@ -499,8 +499,8 @@
         "position": "Forward",
         "club": "Manchester United",
         "number": 10,
-        "image_url": "https://example.com/rashford.jpg",
-        "club_logo_url": "https://example.com/manutd_logo.png",
+        "image_url": "https://images.ctfassets.net/u8w3l566ay8a/vNyjUi75v04wfcexMINs4/b399807d67f1a81ecd31f475d5830c73/GettyImages-1918029805.jpg",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3eHeWWmkWHPG9EIoLHWZLZ/72a69adbd80ffb6c6dc65938af148280/Man_Utd.png",
         "country_flag_url": "https://example.com/england_flag.png"
       }
     },
@@ -517,8 +517,8 @@
         "position": "Midfielder",
         "club": "Bayern Munich",
         "number": 6,
-        "image_url": "https://example.com/kimmich.jpg",
-        "club_logo_url": "https://example.com/bayernmunich_logo.png",
+        "image_url": "https://assets.bundesliga.com/player/dfl-obj-0002f5-dfl-clu-00000g-dfl-sea-0001k8.png",
+        "club_logo_url": "https://images.ctfassets.net/rs6bgs1g8dbr/3XIP49qCKQQznt0zxfZXiy/f06982ce9614d92641252d1277b3d580/FC_Bayern_M_nchen.png",
         "country_flag_url": "https://example.com/germany_flag.png"
       }
     },
@@ -535,8 +535,8 @@
         "position": "Forward",
         "club": "Tottenham Hotspur",
         "number": 7,
-        "image_url": "https://example.com/son.jpg",
-        "club_logo_url": "https://example.com/tottenham_logo.png",
+        "image_url": "https://static.standard.co.uk/2024/10/17/11/15/SEI222609297.jpg",
+        "club_logo_url": "https://ssl.gstatic.com/onebox/media/sports/logos/k3Q_mKE98Dnohrcea0JFgQ_64x64.png",
         "country_flag_url": "https://example.com/southkorea_flag.png"
       }
     }
